@@ -1,0 +1,39 @@
+{
+    "name": "BakePreffab.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:17a712dc2fa6134478bc48023aee3be7",
+        "GUID:0b89bab5e208b814887d6d7da6189abe",
+        "GUID:0acc523941302664db1f4e527237feb3",
+        "GUID:35557276d5ecfd84fbc67608e9afce5b"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [
+        "Android",
+        "CloudRendering",
+        "EmbeddedLinux",
+        "GameCoreScarlett",
+        "GameCoreXboxOne",
+        "iOS",
+        "LinuxStandalone64",
+        "Lumin",
+        "macOSStandalone",
+        "PS4",
+        "PS5",
+        "Stadia",
+        "Switch",
+        "tvOS",
+        "WSA",
+        "WebGL",
+        "WindowsStandalone32",
+        "WindowsStandalone64",
+        "XboxOne"
+    ],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

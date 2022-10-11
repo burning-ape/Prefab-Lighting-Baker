@@ -1,0 +1,20 @@
+{
+  "name": "com.burn1ingape.prefab-lighting-baker",
+  "version": "0.0.1",
+  "displayName": "Prefab Lighting Baker",
+  "description": "Prefab Lighting Baker package by Burn1ngApe",
+  "unity": "2021.3",
+  "documentationUrl": "https://github.com/Burn1ngApe/Prefab_Lighting_Baker",
+  "licensesUrl": "https://github.com/Burn1ngApe/Prefab_Lighting_Baker/blob/main/LICENSE",
+  "keywords": [
+    "keyword1",
+    "keyword2",
+    "keyword3"
+  ],
+  "author": {
+    "name": "Burn1ngApe",
+    "url": "https://github.com/Burn1ngApe"
+  },
+  "type": "tool",
+  "unityRelease": "4f1"
+}
