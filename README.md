@@ -1,4 +1,4 @@
-# PrefabLightingBaker
+# Prefab Lighting Baker
 ## Tool Overview 
   Bakes lightmaps right into materials on the selected objects with them being untouched. You can also use this tool to bake lighting on dynamic and animated objects. Just copy object, replace SkinnedMeshRenderer with MeshRenderer, bake the object and put new generated materials on the original object with SkinnedMeshRenderer.
   
