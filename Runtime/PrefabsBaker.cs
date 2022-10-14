@@ -33,7 +33,8 @@ public class PrefabsBaker : MonoBehaviour
 
             // Get allComponents from prefabs and their children
             var renderers = GetAllRenderersFromPrefabs(PrefabsCopies);
-            ChangeRenderersSettings(renderers);
+            var originalRenderers = GetAllRenderersFromPrefabs(PrefabsToBake);
+            ChangeRenderersSettings(originalRenderers);
 
             // Fill filters data with filters and materials
             _renderersData = GetRenderersAndMaterials(renderers);         
