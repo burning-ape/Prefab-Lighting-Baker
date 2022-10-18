@@ -149,7 +149,7 @@ public class PrefabsBakerEditor : Editor
 
     #region Menu Item
 
-    [MenuItem("GameObject/Prefabs Baker", priority = 0)]
+    [MenuItem("GameObject/Tools/Prefabs Baker", priority = 0)]
     public static void CreateEmpty()
     {
         GameObject prefabsBakerGO = new GameObject("Prefabs Baker");
